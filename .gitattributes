@@ -16,3 +16,5 @@ Content/DungeonLamps/Textures/T_DungeonLamps_001_cc.uasset filter=lfs diff=lfs m
 Content/DungeonLamps/Textures/T_DungeonLamps_002_cc.uasset filter=lfs diff=lfs merge=lfs -text
 Content/DungeonLamps/Textures/T_DungeonLamps_003_cc.uasset filter=lfs diff=lfs merge=lfs -text
 Content/DungeonLamps/Textures/T_DungeonLamps_004_cc.uasset filter=lfs diff=lfs merge=lfs -text
+Content/DungeonLamps/Textures/T_DungeonLamps_001_em.uasset filter=lfs diff=lfs merge=lfs -text
+Content/DungeonLamps/Textures/T_DungeonLamps_004_nme.uasset filter=lfs diff=lfs merge=lfs -text
